@@ -1,0 +1,7 @@
+name: Strength
+version: '${project.version}'
+main: me.myna.strength.Strength
+api-version: '1.20'
+commands:
+  setStrength:
+  getStrength:
